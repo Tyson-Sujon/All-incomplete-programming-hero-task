@@ -3,3 +3,5 @@ videos:
 20-4 Calculate the average of the odd numbers in an array
 20-7 A Simple introduction to JS Date and time
 21-8 Handle unexpected function input parameter error
+21-9 Module Summary and Practice Tasks
+   https://github.com/ProgrammingHero1/js-problems-part2-practice-tasks
