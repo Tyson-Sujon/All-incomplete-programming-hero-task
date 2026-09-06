@@ -1,7 +1,19 @@
 videos:
+
 20-3 Check whether a year is a Leap Year or not
+
 20-4 Calculate the average of the odd numbers in an array
+
 20-7 A Simple introduction to JS Date and time
+
 21-8 Handle unexpected function input parameter error
+
 21-9 Module Summary and Practice Tasks
    https://github.com/ProgrammingHero1/js-problems-part2-practice-tasks
+
+22-1 Assignment Requirement Explanation
+	Problem-05: Exam Result Report Generator
+
+	link: https://docs.google.com/document/d/1mmm5iD2z8tz3W8iK-vXNLRzFHpd1U3FWj5ZbAv-Q3Is/edit?tab=t.3dht1vpdsf5c#heading=h.ekgroi1pzhrs
+
+	problem pdf has given.
